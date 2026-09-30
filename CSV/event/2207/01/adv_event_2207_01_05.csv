@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,Happy Smile Selfie 5話 ⅢXは止まらない,
-14:text:1,,――アイドルミュージックフェス当日,
+14:narration:1,,――アイドルミュージックフェス当日,
 19:text:1,kana,『もうすぐライブ開始です,
 23:text:1,kana,みんな、野外ステージ見に来てね』……っと,
 28:text:1,kana,これにkanaの可愛い自撮り写真を付けて,
@@ -94,7 +94,7 @@ id,name,text,trans
 553:text:1,fran,スリクスを知った人も、一人残らず虜にしてあげる,
 563:text:1,miho,私達にしか出来ない完璧なステージを見せてあげるわ,
 570:text:1,miho,ⅢXの世界へようこそ――『Bang Bang』！,
-587:text:1,,――IMFを終えて、数日後,
+587:narration:1,,――IMFを終えて、数日後,
 588:text:1,{user},この間のフェスはお疲れ様でした,
 595:text:1,{user},スリクスの評判は各所で話題になってますよ,
 600:text:1,fran,わざわざ言うほどのことじゃありません,

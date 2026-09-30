@@ -1,7 +1,7 @@
 id,name,text,trans
 5:title:1,,早坂芽衣 1話 芽衣のポテンシャル,
-7:text:1,,――時は遡り,
-8:text:1,,――NEXT VENUSグランプリ予選を控えたある日,
+7:narration:1,,――時は遡り,
+8:narration:1,,――NEXT VENUSグランプリ予選を控えたある日,
 11:text:1,{user},（事務所での仕事が一段落ついた午後）,
 12:text:1,{user},（騒がしい足音が聞こえてきた）,
 23:text:1,早坂芽衣,{user}さーーーん！,

@@ -1,6 +1,6 @@
 id,name,text,trans
 5:title:1,,miho 2話 一人で十分、旅行を楽しめますので,
-11:text:1,,――夜,
+11:narration:1,,――夜,
 18:text:1,miho,さっきのワイン、美味しかったわね……,
 19:text:1,miho,もう少し飲みたいけど、この近くのお店にはあるかしら,
 22:text:1,{user},あれ……mihoさん,

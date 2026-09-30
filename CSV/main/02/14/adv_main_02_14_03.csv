@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,東京編2章43話 I-UNITY表彰式,
-18:text:1,,――第一回I-UNITY、そのファイナルから,
-19:text:1,,一ヶ月後,
+18:narration:1,,――第一回I-UNITY、そのファイナルから,
+19:narration:1,,一ヶ月後,
 24:text:1,{user},みんな、準備出来たか？,
 25:text:1,{user},それじゃあ、I-UNITYの表彰式に向かおうか,
 30:text:1,川咲さくら,はい！,

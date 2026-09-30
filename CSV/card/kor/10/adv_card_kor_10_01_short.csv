@@ -1,6 +1,6 @@
 id,name,text,trans
 4:title:1,,fran 1話 う、うーん……ぐぅ……,
-9:text:1,,―― 一月二日,
+9:narration:1,,―― 一月二日,
 10:text:1,{user},おっと、正月早々仕事のメールか。先方も大変だなぁ,
 14:text:1,{user},えーっと、ⅢX宛のMV撮影日変更のお願い、か,
 16:text:1,{user},すぐにfranさん達に連絡しないとな,

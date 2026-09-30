@@ -1,6 +1,6 @@
 id,name,text,trans
 4:title:1,,miho 2話 ふんふーん,
-12:text:1,,――翌朝,
+12:narration:1,,――翌朝,
 15:text:1,{user},うーん、おかしいな,
 16:text:1,{user},昨日はあんなにカッコ良く決まってたのに,
 30:text:1,miho,{user}さん、おはようございます,
@@ -56,7 +56,7 @@ id,name,text,trans
 222:text:1,miho,……ふんふーん……,
 224:text:1,{user},今、mihoさん鼻歌歌ってた？,
 225:text:1,{user},いや、まさかな……,
-230:text:1,,――翌日,
+230:narration:1,,――翌日,
 241:text:1,{user},ふんふんふーん……あ、mihoさん！,
 242:text:1,{user},早速もらったワックスを使ってみたんですけど,
 250:text:1,miho,……なんですかそのツンツンした頭は,

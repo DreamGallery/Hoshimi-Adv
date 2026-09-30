@@ -1,6 +1,6 @@
 id,name,text,trans
 4:title:1,,fran 1話 契約取れないで終わる！！,
-13:text:1,,――アメリカから帰国後,
+13:narration:1,,――アメリカから帰国後,
 21:text:1,fran,ふーん、ふふーん……,
 25:text:1,{user},お疲れ様です、franさん。随分嬉しそうですけど,
 26:text:1,{user},何かいいことでもありましたか？,

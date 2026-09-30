@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,天動瑠依 1話 同じステージに立って,
-13:text:1,,――マジカルミライ10th Anniversary,
-16:text:1,,in VENUS STAGE,
+13:narration:1,,――マジカルミライ10th Anniversary,
+16:narration:1,,in VENUS STAGE,
 17:text:1,{user},いよいよこの日が来たな,
 22:text:1,天動瑠依,はい、本当にいろいろありましたけど,
 23:text:1,天動瑠依,なんとか、本番に間に合いました,

@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,fran 3話 秘密ですからね？,
-12:text:1,,――翌朝,
+12:narration:1,,――翌朝,
 16:text:1,fran,おはようございます、{user}さん,
 22:text:1,{user},おはようございます。……あれ？,
 23:text:1,{user},何かいいことでもあったんですか？,

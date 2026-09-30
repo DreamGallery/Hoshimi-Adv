@@ -1,7 +1,7 @@
 id,name,text,trans
 5:title:1,,鈴村優 1話 トリエルを見学,
-9:text:1,,――時は遡り,
-10:text:1,,――NEXT VENUSグランプリ予選が差し迫ったある日,
+9:narration:1,,――時は遡り,
+10:narration:1,,――NEXT VENUSグランプリ予選が差し迫ったある日,
 18:text:1,鈴村優,あ。おはようございます。星見プロの,
 22:text:1,鈴村優,{user}さん、やったよね？,
 26:text:1,鈴村優,TRINITYAiLEの鈴村優いいます,

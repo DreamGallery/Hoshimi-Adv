@@ -40,7 +40,7 @@ id,name,text,trans
 146:text:1,fran,こういうノリ、苦手なのに……くしゅん！,
 154:text:1,fran,う～……早く撤収しましょ,
 157:text:1,fran,はぁ～、やっと帰れる～,
-163:text:1,,――MVの公開後,
+163:narration:1,,――MVの公開後,
 164:text:1,{user},franさん。新曲のMVはかなり好評ですね,
 171:text:1,{user},……って、ど、どうしました？,
 174:text:1,fran,確かにMVは好評でしたよ,

@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,井川葵 1話 僕は僕,
-9:text:1,,――時は遡り,
-10:text:1,,――NEXT VENUSグランプリの予選を控えたある日,
+9:narration:1,,――時は遡り,
+10:narration:1,,――NEXT VENUSグランプリの予選を控えたある日,
 21:text:1,井川葵,やあ、この間ぶりだね,
 22:text:1,井川葵,三枝さんとこの新米プロデューサーくん,
 24:text:1,{user},先日はありがとう,

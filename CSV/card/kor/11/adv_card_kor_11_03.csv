@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,fran 3話 ビジネスが待ってます,
-15:text:1,,――翌朝,
+15:narration:1,,――翌朝,
 25:text:1,fran,あの、大丈夫ですか？,
 26:text:1,fran,随分眠そうですし、目の下に隈も出来てますけど,
 32:text:1,{user},ええ……ちょっと、いやだいぶ寝付きが悪くて,

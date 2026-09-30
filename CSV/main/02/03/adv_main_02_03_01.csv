@@ -1,7 +1,7 @@
 id,name,text,trans
 5:title:1,,東京編1章11話 みんなで作ろう,
-9:text:1,,――TRINITYAiLEが入所して,
-10:text:1,,しばらく経ったある日,
+9:narration:1,,――TRINITYAiLEが入所して,
+10:narration:1,,しばらく経ったある日,
 25:text:1,川咲さくら,なんだか久しぶりですね。こうして五人揃って,
 30:text:1,川咲さくら,{user}さんと会うのは,
 43:text:1,{user},ここのところ、仕事が忙しかったからな,

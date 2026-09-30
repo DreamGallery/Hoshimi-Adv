@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,初音ミク 3話 音楽の三要素,
-15:text:1,,――マジカルミライ10th Anniversary,
-16:text:1,,in VENUS STAGE当日,
+15:narration:1,,――マジカルミライ10th Anniversary,
+16:narration:1,,in VENUS STAGE当日,
 24:text:1,初音ミク,みんな！　今日は私とトリエルの歌を,
 25:text:1,初音ミク,聴いてくれてありがとう！,
 37:text:1,{user},会場が揺れるほど盛り上がってるな,
@@ -54,7 +54,7 @@ id,name,text,trans
 217:text:1,{user},……三人とも、大歓迎だそうだ,
 227:text:1,初音ミク,ほ、ほんとに？　ほんとに？　嬉しい……！,
 228:text:1,初音ミク,{user}さん、ありがとう！,
-232:text:1,,――打ち上げの後,
+232:narration:1,,――打ち上げの後,
 243:text:1,初音ミク,打ち上げって初めてだったけど,
 244:text:1,初音ミク,楽しかった～……,
 248:text:1,{user},それなら良かった,

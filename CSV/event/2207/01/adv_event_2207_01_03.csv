@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,Happy Smile Selfie 3話 初めての食事会,
-16:text:1,,――さくらとkanaが食事をした日の夜,
+16:narration:1,,――さくらとkanaが食事をした日の夜,
 21:text:1,fran,お酒が飲みたいからってどうして普通の居酒屋なのよ,
 24:text:1,fran,アイドルならもっとオシャレなバーに行きなさいよ,
 32:text:1,miho,勝手についてきて文句言わないで,
@@ -78,7 +78,7 @@ id,name,text,trans
 425:text:1,fran,その調子でこれからも私のために尽くしなさい,
 432:text:1,miho,……franって本当に性格悪いわね,
 438:text:1,fran,あら、mihoだって相当なものだと思うけど,
-449:text:1,,――翌日,
+449:narration:1,,――翌日,
 454:text:1,fran,kana、SNSの写真を見たわよ,
 458:text:1,fran,なに敵と仲良くしてるのよ,
 464:text:1,kana,敵ってさくらのこと？,

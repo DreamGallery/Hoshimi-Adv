@@ -48,7 +48,7 @@ id,name,text,trans
 212:text:1,miho,うわぁぁ！？,
 213:text:1,miho,い、痛った……,
 217:text:1,{user},あああやっぱり転んだ、大丈夫ですか！？,
-223:text:1,,――数日後,
+223:narration:1,,――数日後,
 231:text:1,miho,……いい、fran,
 232:text:1,miho,明日は朝九時にスタジオ入りよ、遅れないようにね,
 237:text:1,miho,kanaはオフだけど、ダラダラしないように,

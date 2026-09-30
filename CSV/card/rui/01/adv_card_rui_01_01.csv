@@ -1,7 +1,7 @@
 id,name,text,trans
 6:title:1,,天動瑠依 1話 財布がない,
-7:text:1,,――時は遡り,
-8:text:1,,――NEXT VENUSグランプリ開催前のある日,
+7:narration:1,,――時は遡り,
+8:narration:1,,――NEXT VENUSグランプリ開催前のある日,
 12:text:1,{user},（マズい……さっきまでポケットにあったのに）,
 13:text:1,{user},（財布がない）,
 24:text:1,天動瑠依,おはようございます,

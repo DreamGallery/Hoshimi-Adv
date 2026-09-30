@@ -1,7 +1,7 @@
 id,name,text,trans
 5:title:1,,川咲さくら 1話 デビューと同じ場所,
-7:text:1,,――時は遡り,
-8:text:1,,――NEXT VENUSグランプリの予選を控えたある日,
+7:narration:1,,――時は遡り,
+8:narration:1,,――NEXT VENUSグランプリの予選を控えたある日,
 14:text:1,{user},（今日は星見市主催の野外イベント当日だ）,
 15:text:1,{user},（若手注目グループとしてサニピも参加している）,
 25:text:1,川咲さくら,あ、{user}さ～ん！,

@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,TRINITYAiLE 1章21話 新たなスタート,
-7:text:1,,――NEXT VENUSグランプリ終了後,
+7:narration:1,,――NEXT VENUSグランプリ終了後,
 11:text:1,朝倉恭一,……アイドルに必要なのは物語だ,
 15:text:1,朝倉恭一,それは輝かしいステージの上でしか語ることは出来ない,
 20:text:1,天動瑠依,え？ あっ、はい……,
@@ -82,7 +82,7 @@ id,name,text,trans
 440:text:1,鈴村優,……これやったら、もっと上も狙っていける,
 446:text:1,鈴村優,BIG4に並ぶ……いや、打倒だって出来る,
 447:text:1,鈴村優,うちら、TRINITYAiLEなら……,
-470:text:1,,――TRINITYAiLE、ライブ終了直後,
+470:narration:1,,――TRINITYAiLE、ライブ終了直後,
 471:text:1,鈴村優,いや～、今日のお客さんの熱気凄かったなぁ,
 472:text:1,鈴村優,うちらの方が圧倒されるかと思ったわぁ,
 477:text:1,天動瑠依,NEXT VENUSグランプリで負けた後だけど,

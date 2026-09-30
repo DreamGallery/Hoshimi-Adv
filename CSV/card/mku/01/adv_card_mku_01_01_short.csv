@@ -1,8 +1,8 @@
 id,name,text,trans
 4:title:1,,初音ミク 1話 教えて、マネージャーさん,
-9:text:1,,――マジカルミライ10th Anniversary,
-10:text:1,,in VENUS STAGE,
-11:text:1,,本イベントにトリエル出演が決まった数日後,
+9:narration:1,,――マジカルミライ10th Anniversary,
+10:narration:1,,in VENUS STAGE,
+11:narration:1,,本イベントにトリエル出演が決まった数日後,
 14:text:1,{user},ええと、ミクの呼び出し方は……,
 15:text:1,{user},これで良かったかな？,
 26:text:1,初音ミク,こんにちは、{user}さん,

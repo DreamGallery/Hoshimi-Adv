@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,LizNoir 2章10話 気高く咲き誇れ,
-23:text:1,,――セミファイナル,
-24:text:1,,――TRINITYAiLEのステージ終了後,
+23:narration:1,,――セミファイナル,
+24:narration:1,,――TRINITYAiLEのステージ終了後,
 39:text:1,小美山愛,トリエルのステージ、凄かったね……,
 40:text:1,小美山愛,あれを超えないと、勝てないんだ,
 59:text:1,赤崎こころ,あれ～、まだビビってるの？　葵さんがいなくても,
@@ -93,7 +93,7 @@ id,name,text,trans
 759:text:1,{user},セミファイナル,
 761:text:1,{user},LizNoir対TRINITYAiLEの一戦は,
 762:text:1,{user},この大会の、事実上の決勝戦となった,
-772:text:1,,――数日後,
+772:narration:1,,――数日後,
 780:text:1,赤崎こころ,{user}さ～ん、お茶を淹れて下さい,
 781:text:1,赤崎こころ,それと肩が凝ったから、揉んで下さ～い。ほらほら早く,
 801:text:1,{user},お茶なら今まで通り自分で淹れてくれ。肩も揉まない,

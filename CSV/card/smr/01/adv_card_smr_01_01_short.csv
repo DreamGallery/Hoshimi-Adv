@@ -1,7 +1,7 @@
 id,name,text,trans
 3:title:1,,奥山すみれ 1話 自販機の前で,
-7:text:1,,――時は遡り,
-8:text:1,,――NEXT VENUSグランプリの開催に世間が湧く中,
+7:narration:1,,――時は遡り,
+8:narration:1,,――NEXT VENUSグランプリの開催に世間が湧く中,
 15:text:1,{user},（スタジオからの帰り道。自販機前でたたずむ）,
 19:text:1,{user},（TRINITYAiLEの奥山さんを見つけた）,
 24:text:1,奥山すみれ,うーん……迷っちゃうなぁ,

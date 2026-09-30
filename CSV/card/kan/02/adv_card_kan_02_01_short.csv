@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,kana 1話 二日酔いでもパッキパキ,
-7:text:1,,――ⅢXライブ当日,
+7:narration:1,,――ⅢXライブ当日,
 13:text:1,{user},……まったく、ライブ当日に,
 14:text:1,{user},一体何をやってるんですか？,
 20:text:1,kana,あ～もう！　朝から騒がないでよ,
