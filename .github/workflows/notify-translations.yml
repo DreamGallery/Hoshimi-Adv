@@ -1,0 +1,31 @@
+name: Notify translation tasks
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Resource/**'
+      - 'CSV/**'
+      - revision
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: notify-translations
+  cancel-in-progress: false
+jobs:
+  notify:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch trusted translation synchronization
+        env:
+          GH_TOKEN: ${{ secrets.TRANSLATIONS_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$GH_TOKEN" ]]; then
+            echo 'Configure TRANSLATIONS_DISPATCH_TOKEN: a fine-grained token with Actions write access to DreamGallery/Idoly-localify-translations.'
+            exit 1
+          fi
+          gh api --method POST repos/DreamGallery/Idoly-localify-translations/actions/workflows/sync-story-sources.yml/dispatches --input - <<'JSON'
+          {"ref":"main"}
+          JSON
